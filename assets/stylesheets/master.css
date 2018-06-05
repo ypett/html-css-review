@@ -45,12 +45,11 @@ button {
 
 .center-image {
   display: block;
-  margin-top: 150px;
+  margin-top: 170px;
   padding-top: 0;
+  padding-bottom: 30px;
   margin-left: auto;
   margin-right: auto;
-  height: 25%;
-  width: 30%;
 }
 
 .search-box input {
