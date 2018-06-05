@@ -5,6 +5,8 @@ body {
 
 nav {
   color: #6E6E6E;
+  text-align: center;
+  width: 100%;
 }
 
 ul {
@@ -12,11 +14,12 @@ ul {
 }
 
 li {
-  display: inline;
+  display: inline-block;
   padding-right: 10px;
 }
 
 li img {
+  vertical-align: middle;
   height: 25px;
   width: 25px;
 }
