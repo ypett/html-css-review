@@ -59,8 +59,12 @@ button {
   width: 40%;
 }
 
+.selection-box {
+  text-align: center;
+}
+
 .selection-box button {
-  display: inline;
+  display: inline-block;
   height: 30px;
   width: 130px;
   background-color: #E6E6E6;
